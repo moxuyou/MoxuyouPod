@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'PageController_Example' do
+  pod 'PageController', :path => '../'
+
+  target 'PageController_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
