@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'PageController'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of PageController.'
+  s.summary          = 'This is moxuyou PageController.'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -18,7 +18,7 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-TODO: Add long description of the pod here.
+用于提交轮播图控件功能，组件化管理.This is moxuyou PageController
                        DESC
 
   s.homepage         = 'https://github.com/moxuyou/PageController'

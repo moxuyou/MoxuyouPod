@@ -1,0 +1,16 @@
+PODS:
+  - PageController (0.1.0)
+
+DEPENDENCIES:
+  - PageController (from `../`)
+
+EXTERNAL SOURCES:
+  PageController:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  PageController: 5b9410c2808effc20825442adcc9120e457e7a76
+
+PODFILE CHECKSUM: 86dd0e3d5ec344b5d8a73395583e9a7bf6c25b32
+
+COCOAPODS: 1.7.3
